@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandu-Jagadish
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning reactnative
+- 🌱 I’m currently working on hybrid app devlopment
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me padu516jagu@gmail.com
 
