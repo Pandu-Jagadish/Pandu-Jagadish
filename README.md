@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pandu-Jagadish
+- 👋 Hi, I’m Jagadish
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently working on hybrid app devlopment
 - 💞️ I’m looking to collaborate on App development
