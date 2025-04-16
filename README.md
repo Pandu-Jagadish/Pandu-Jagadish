@@ -1,10 +1,61 @@
-- 👋 Hi, I’m Jagadish
-- 👀 I’m interested in web technologies
-- 🌱 I’m currently working on hybrid app devlopment
-- 💞️ I’m looking to collaborate on App development
-- 📫 How to reach me padu516jagu@gmail.com
+<h1 align="center">Hi 👋, I'm Jagadish</h1>
+<h3 align="center">MERN Stack Developer | Python DevOps Engineer | Docker & Kubernetes Enthusiast</h3>
 
-<!---
-Pandu-Jagadish/Pandu-Jagadish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
+
+---
+
+🚀 **About Me**
+
+- 🔭 I’m currently working on **scalable MERN stack applications and automating cloud-native deployments**  
+- 🌱 I’m constantly learning **Microservices, System Design, and CI/CD best practices**  
+- 💬 Ask me about **JavaScript, Python, DevOps pipelines, Docker, Kubernetes, and Cloud deployments**  
+- ⚡ Fun fact: I'm a terminal ninja and a huge fan of clean code & automation!
+
+---
+
+🧰 **Tech Stack & Tools**
+
+#### 🧑‍💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+#### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+
+#### 🧪 Testing & CI/CD
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=github)
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
+</p>
+
+---
+
+📫 **Connect With Me**
+
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- Email: [youremail@example.com](mailto:youremail@example.com)
+
+---
+
+🌱 _“Code. Ship. Scale. Repeat.”_
