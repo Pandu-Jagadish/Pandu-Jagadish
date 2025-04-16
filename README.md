@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagadish</h1>
-<h3 align="center">MERN Stack Developer | Python DevOps Engineer | Docker & Kubernetes Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | DevOps Engineer | Docker & Kubernetes Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
@@ -40,21 +40,10 @@
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
-</p>
-
----
-
 📫 **Connect With Me**
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [LinkedIn/gandi-jagadish](https://www.linkedin.com/in/gandi-jagadish/)
+- Email: [gandijagadish001@gmail.com](mailto:gandijagadish001@gmail.com)
 
 ---
 
